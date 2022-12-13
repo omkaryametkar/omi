@@ -4,4 +4,4 @@
 ### College Name - *KLE Dr. M. S. Sheshgiri College, Belgaum*
 ### Branch - *Computer Science Engineering (AI)
 
-IMG-20221213-WA0005.jpg
+
